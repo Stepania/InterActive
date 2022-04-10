@@ -1,0 +1,21 @@
+{
+  "name": "ass2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "css-validator": "^0.10.0",
+    "esm": "^3.2.25",
+    "http-server": "^14.1.0",
+    "jest": "^27.5.1",
+    "mysql": "^2.18.1",
+    "vue-use-sound": "^1.1.1",
+    "w3c-css-validator": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
